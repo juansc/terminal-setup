@@ -4,7 +4,8 @@ syntax on
 set nowrap
 filetype plugin indent on
 colorscheme monokai 
-" This allows us to toggle paste using <F2>"
+" This allows us to toggle paste using <F2>". This makes pasting nicer when
+" pasting code with indents.
 set pastetoggle=<F2>
 " This creates the numbers to our left
 set number

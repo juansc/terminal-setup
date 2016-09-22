@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/juanscarrillo/git/embrace/app_scraper'
+let g:netrw_dirhist_2='/Users/juanscarrillo/git/embrace/app_scraper/mightysignal'
+let g:netrw_dirhist_3='/Users/juanscarrillo/git/programs/pycreate'
